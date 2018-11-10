@@ -1,5 +1,7 @@
 # tic-tac-toe
 
+A simplified version of the Reactjs tic-tac-toe (this one has no moves history) written in Vuejs.
+
 ## Project setup
 ```
 yarn install
